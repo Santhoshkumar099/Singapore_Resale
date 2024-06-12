@@ -8,15 +8,6 @@ from sklearn.tree import DecisionTreeRegressor
 
 
 
-import numpy as np
-import pickle
-import streamlit as st
-import pandas as pd
-import json
-import datetime as dt
-
-
-
 #page config
 st.set_page_config(page_title="Flat Price Prediction",page_icon="🏢")
 st.sidebar.image("MDTM20\Project05\Singapore01.jfif")
